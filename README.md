@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B1A9B&height=120&section=header" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B1A9B&center=true&vCenter=true&width=500&lines=print(%22Hello%2C+World!%22);Be+Welcome+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
