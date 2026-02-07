@@ -56,10 +56,12 @@
 
 <br>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanriox&show_icons=true&count_private=false&hide_border=true&title_color=8B1A9B&icon_color=00bffb&text_color=c9d1d9&bg_color=0d1117" width="49%" align="left" alt="natanriox github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanriox&layout=compact&hide_border=true&title_color=8B1A9B&text_color=00bffb&bg_color=0d1117&hide=html,css" width="41%" align="right" alt="natanriox top langs" />
+<div align="center">
+  ![natanriox stats](https://github-readme-stats.vercel.app/api?username=natanriox&show_icons=true&count_private=false&hide_border=true&title_color=8B1A9B&icon_color=00bffb&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400)
+  
+  ![natanriox top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanriox&layout=compact&hide_border=true&title_color=8B1A9B&text_color=00bffb&bg_color=0d1117&hide=html,css&cache_seconds=86400)
 </div>
+
 
 <br><br><br>
 
