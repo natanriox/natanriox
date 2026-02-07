@@ -56,19 +56,6 @@
 
 <br>
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanriox&layout=compact&theme=radical&hide_border=true&hide=html,css&cache_seconds=86400)
-
-</div>
-
-
-
-<br><br><br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/natanriox/count.svg" alt="Visitors Count" />
-</div>
 
 ---
 
