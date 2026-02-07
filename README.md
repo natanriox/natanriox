@@ -56,11 +56,8 @@
 
 <br>
 
-<div align="center">
-  ![natanriox stats](https://github-readme-stats.vercel.app/api?username=natanriox&show_icons=true&count_private=false&hide_border=true&title_color=8B1A9B&icon_color=00bffb&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400)
-  
-  ![natanriox top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanriox&layout=compact&hide_border=true&title_color=8B1A9B&text_color=00bffb&bg_color=0d1117&hide=html,css&cache_seconds=86400)
-</div>
+![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Spotify%20Playlist%20Matcher](https://img.shields.io/badge/SpotifyPlaylistMatcher-1f4e05?style=for-the-badge&logo=spotify&logoColor=green)
 
 
 <br><br><br>
