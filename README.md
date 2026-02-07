@@ -56,8 +56,13 @@
 
 <br>
 
-![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Spotify%20Playlist%20Matcher](https://img.shields.io/badge/SpotifyPlaylistMatcher-1f4e05?style=for-the-badge&logo=spotify&logoColor=green)
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 
 <br><br><br>
