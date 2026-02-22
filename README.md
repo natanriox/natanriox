@@ -7,10 +7,10 @@
 </p>
 
 🚀 **Systems Analysis & Development**  
-💻 **Backend:** Java (Spring Boot) • Python (Django) • REST APIs  
-🗄️ **Databases:** SQL Server • MySQL • MongoDB  
-⚙️ **Version Control:** Git • GitHub • GitFlow  
-✨ **Current Focus:** Architecture • Automated Tests • Security  
+💻 **Backend:** C | C# | .NET  
+🗄️ **Databases:** SQL Server  
+⚙️ **Version Control:** Git • GitHub •  
+✨ **Current Focus:** Software Engineering • Clean Architecture • Databank
 
 <details>
 <summary style="cursor: pointer; font-weight: bold; color: #8B1A9B; font-size: 14px; margin: 16px 0;"><strong>PT-BR</strong></summary>
@@ -21,10 +21,10 @@
 
 
 🚀 **Análise e Desenvolvimento de Sistemas**  
-💻 **Backend:** Java (Spring Boot) • Python (Django) • APIs REST  
-🗄️ **Bancos:** SQL Server • MySQL • MongoDB  
-⚙️ **Versionamento:** Git • GitHub • GitFlow  
-✨ **Foco atual:** Arquitetura • Testes Automatizados • Segurança  
+💻 **Backend:** C | C# | .NET  
+🗄️ **Bancos:** SQL Server • 
+⚙️ **Versionamento:** Git • GitHub •   
+✨ **Foco atual:** Engenharia de Software • Arquitetura limpa • Banco de dados 
 
 </details>
 
