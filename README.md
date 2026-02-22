@@ -9,7 +9,7 @@
 🚀 **Systems Analysis & Development**  
 💻 **Backend:** C | C# | .NET  
 🗄️ **Databases:** SQL Server  
-⚙️ **Version Control:** Git • GitHub 
+⚙️ **Version Control:** Git • GitHub   
 ✨ **Current Focus:** Software Engineering • Clean Architecture • Databank
 
 <details>
