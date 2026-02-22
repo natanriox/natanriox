@@ -9,7 +9,7 @@
 🚀 **Systems Analysis & Development**  
 💻 **Backend:** C | C# | .NET  
 🗄️ **Databases:** SQL Server  
-⚙️ **Version Control:** Git • GitHub •  
+⚙️ **Version Control:** Git • GitHub 
 ✨ **Current Focus:** Software Engineering • Clean Architecture • Databank
 
 <details>
@@ -22,8 +22,8 @@
 
 🚀 **Análise e Desenvolvimento de Sistemas**  
 💻 **Backend:** C | C# | .NET  
-🗄️ **Bancos:** SQL Server • 
-⚙️ **Versionamento:** Git • GitHub •   
+🗄️ **Bancos:** SQL Server  
+⚙️ **Versionamento:** Git • GitHub   
 ✨ **Foco atual:** Engenharia de Software • Arquitetura limpa • Banco de dados 
 
 </details>
@@ -44,9 +44,9 @@
 ## 🛠️ **Tools & Skills**
 <div align="center">
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/csharp/csharp-original.svg" />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/mssqlserver-original.svg" />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" />
 </div>
 
 <br>
