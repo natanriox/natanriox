@@ -10,7 +10,7 @@
 **Backend:** C | C# | .NET  
 **Databases:** SQL Server  
 **Version Control:** Git • GitHub   
-**Current Focus:** Software Engineering • Clean Architecture • Databank
+**Current Focus:** Software Engineering • Clean Architecture • Database
 
 <details>
 <summary style="cursor: pointer; font-weight: bold; color: #8B1A9B; font-size: 14px; margin: 16px 0;"><strong>PT-BR</strong></summary>
