@@ -48,7 +48,7 @@
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/sqlserver-original.svg" alt="SQL" />
 </div>
 
 ## **Certificates**
