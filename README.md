@@ -8,7 +8,8 @@
 
 **Systems Analysis & Development**  
 **Backend:** C | C# | .NET  
-**Databases:** SQL Server  
+**Databases:** SQL Server
+**Languages:** Portuguese native and English B2 
 **Version Control:** Git • GitHub   
 **Current Focus:** Software Engineering • Clean Architecture • Database
 
@@ -23,7 +24,8 @@
 **Análise e Desenvolvimento de Sistemas**  
 **Backend:** C | C# | .NET  
 **Bancos:** SQL Server  
-**Versionamento:** Git • GitHub   
+**Versionamento:** Git • GitHub 
+**Linguas:** Português e Inglês B2
 **Foco atual:** Engenharia de Software • Arquitetura limpa • Banco de dados 
 
 </details>
@@ -41,13 +43,17 @@
   </a>
 </div>
 
-## 🛠️ **Tools & Skills**
+## **Tools & Skills**
 <div align="center">
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" />
 </div>
+
+## **Certificates**
+
+**English** B2 EFSET: https://cert.efset.org/pt/aoStsB
 
 <br>
 
