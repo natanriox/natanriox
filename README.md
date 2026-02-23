@@ -9,7 +9,7 @@
 **Systems Analysis & Development**  
 **Backend:** C | C# | .NET  
 **Databases:** SQL Server  
-**Languages:** Portuguese native and English B2 
+**Languages:** Portuguese native and English B2  
 **Version Control:** Git • GitHub   
 **Current Focus:** Software Engineering • Clean Architecture • Database
 
@@ -25,7 +25,7 @@
 **Backend:** C | C# | .NET  
 **Bancos:** SQL Server  
 **Versionamento:** Git • GitHub  
-**Linguas:** Português e Inglês B2
+**Linguas:** Português e Inglês B2  
 **Foco atual:** Engenharia de Software • Arquitetura limpa • Banco de dados 
 
 </details>
