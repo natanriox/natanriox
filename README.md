@@ -23,9 +23,9 @@
 
 **Análise e Desenvolvimento de Sistemas**  
 **Backend:** C | C# | .NET  
-**Bancos:** SQL Server  
-**Versionamento:** Git • GitHub  
+**Bancos de dados:** SQL Server  
 **Linguas:** Português e Inglês B2  
+**Versionamento:** Git • GitHub  
 **Foco atual:** Engenharia de Software • Arquitetura limpa • Banco de dados 
 
 </details>
