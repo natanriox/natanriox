@@ -7,7 +7,7 @@
 </p>
 
 **Systems Analysis & Development**  
-**Backend:** Java | Spring Boot
+**Backend:** Java | Spring Boot  
 **Databases:** SQL Server  
 **Languages:** Portuguese native and English B2  
 **Version Control:** Git • GitHub   
@@ -22,7 +22,7 @@
 
 
 **Análise e Desenvolvimento de Sistemas**  
-**Backend:** Java | Spring Boot 
+**Backend:** Java | Spring Boot  
 **Bancos de dados:** SQL Server  
 **Linguas:** Português e Inglês B2  
 **Versionamento:** Git • GitHub  
