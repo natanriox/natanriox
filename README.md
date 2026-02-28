@@ -7,7 +7,7 @@
 </p>
 
 **Systems Analysis & Development**  
-**Backend:** C | C# | .NET  
+**Backend:** Java | Spring Boot
 **Databases:** SQL Server  
 **Languages:** Portuguese native and English B2  
 **Version Control:** Git • GitHub   
@@ -22,7 +22,7 @@
 
 
 **Análise e Desenvolvimento de Sistemas**  
-**Backend:** C | C# | .NET  
+**Backend:** Java | Spring Boot 
 **Bancos de dados:** SQL Server  
 **Linguas:** Português e Inglês B2  
 **Versionamento:** Git • GitHub  
@@ -44,11 +44,7 @@
 </div>
 
 ## **Tools & Skills**
-<div align="center">
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" alt="SQL Server" />
+<div align="center"> <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" alt="SQL Server" /> </div>
 
 </div>
 
