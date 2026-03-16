@@ -8,7 +8,7 @@
 
 **Systems Analysis & Development**  
 **Backend:** Java | Spring Boot  
-**Databases:** MySQL
+**Databases:** MySQL  
 **Languages:** Portuguese native and English B2  
 **Version Control:** Git • GitHub   
 **Current Focus:** Software Engineering • Clean Architecture • Database
