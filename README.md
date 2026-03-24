@@ -22,10 +22,10 @@
 
 
 **Análise e Desenvolvimento de Sistemas**  
-**Backend:** Java | Spring Boot  
-**Bancos de dados:** MySQL 
-**Linguas:** Português e Inglês independente B2  
-**Versionamento:** Git • GitHub  
+**Backend:** Java | Spring Boot     
+**Bancos de dados:** MySQL    
+**Linguas:** Português e Inglês independente B2   
+**Versionamento:** Git • GitHub     
 **Foco atual:** Engenharia de Software • Arquitetura limpa • Banco de dados 
 
 </details>
