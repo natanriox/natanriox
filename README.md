@@ -6,7 +6,7 @@
 ## <p  style="font-size: 20px; margin: 22px 0;"><strong>Hey there! I'm Natanael 👋</strong></summary>
 </p>
 
-**Systems Analysis & Development**  
+**Computer Science**  
 **Backend:** Java | Spring Boot  
 **Databases:** MySQL  
 **Languages:** Portuguese native and Independent English B2  
@@ -21,7 +21,7 @@
 </p>
 
 
-**Análise e Desenvolvimento de Sistemas**  
+**Ciencias da Computação**  
 **Backend:** Java | Spring Boot     
 **Bancos de dados:** MySQL    
 **Linguas:** Português e Inglês independente B2   
