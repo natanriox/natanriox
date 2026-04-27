@@ -32,7 +32,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <strong>Contact me ↓</strong><br><br>
-  <a href="https://www.linkedin.com/in/natanael-rios-811a55324/">
+  <a href="https://www.linkedin.com/in/natanaelrios/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nnatanzn/">
